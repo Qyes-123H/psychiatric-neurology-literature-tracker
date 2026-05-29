@@ -1,0 +1,169 @@
+project_name: "Psychiatric-Neurology Literature Tracker"
+language: "zh-CN"
+
+search_settings:
+  database: "pubmed"
+  days_back: 7
+  max_results_per_topic: 30
+  sort: "pub_date"
+  tool_name: "psychiatric_neurology_tracker"
+
+ai_settings:
+  enabled: true
+  provider: "deepseek"
+  model: "deepseek-v4-flash"
+  max_papers_to_summarize: 10
+  max_tokens: 1200
+  temperature: 0.2
+
+report_settings:
+  top_n_must_read: 5
+  include_low_priority: false
+
+topics:
+  - id: neurodegeneration_core
+    name: "神经退行性疾病核心进展"
+    priority: 5
+    query: >
+      (
+        "Alzheimer Disease"[MeSH Terms] OR Alzheimer*[Title/Abstract]
+        OR "Parkinson Disease"[MeSH Terms] OR Parkinson*[Title/Abstract]
+        OR "Lewy Body Disease"[MeSH Terms] OR "dementia with Lewy bodies"[Title/Abstract]
+        OR "Frontotemporal Dementia"[MeSH Terms] OR "frontotemporal dementia"[Title/Abstract]
+        OR "progressive supranuclear palsy"[Title/Abstract]
+        OR "multiple system atrophy"[Title/Abstract]
+        OR "amyotrophic lateral sclerosis"[Title/Abstract]
+        OR "mild cognitive impairment"[Title/Abstract]
+      )
+
+  - id: neuropsychiatric_symptoms
+    name: "痴呆与神经退行性疾病的精神行为症状"
+    priority: 5
+    query: >
+      (
+        dementia[Title/Abstract]
+        OR Alzheimer*[Title/Abstract]
+        OR Parkinson*[Title/Abstract]
+        OR "Lewy body"[Title/Abstract]
+        OR frontotemporal[Title/Abstract]
+      )
+      AND
+      (
+        neuropsychiatric[Title/Abstract]
+        OR "behavioral and psychological symptoms"[Title/Abstract]
+        OR BPSD[Title/Abstract]
+        OR agitation[Title/Abstract]
+        OR aggression[Title/Abstract]
+        OR psychosis[Title/Abstract]
+        OR hallucination*[Title/Abstract]
+        OR delusion*[Title/Abstract]
+        OR depression[Title/Abstract]
+        OR anxiety[Title/Abstract]
+        OR apathy[Title/Abstract]
+        OR sleep[Title/Abstract]
+      )
+
+  - id: organic_psychiatry_differential
+    name: "精神症状背后的器质性神经疾病鉴别"
+    priority: 5
+    query: >
+      (
+        psychosis[Title/Abstract]
+        OR psychiatric symptom*[Title/Abstract]
+        OR depression[Title/Abstract]
+        OR anxiety[Title/Abstract]
+        OR catatonia[Title/Abstract]
+        OR delirium[Title/Abstract]
+        OR cognitive impairment[Title/Abstract]
+      )
+      AND
+      (
+        autoimmune encephalitis[Title/Abstract]
+        OR epilepsy[Title/Abstract]
+        OR seizure*[Title/Abstract]
+        OR brain tumor[Title/Abstract]
+        OR encephalitis[Title/Abstract]
+        OR neurosyphilis[Title/Abstract]
+        OR HIV[Title/Abstract]
+        OR Wilson disease[Title/Abstract]
+        OR prion[Title/Abstract]
+        OR metabolic encephalopathy[Title/Abstract]
+      )
+
+  - id: psychotropic_neurology_safety
+    name: "精神科药物相关神经系统问题"
+    priority: 4
+    query: >
+      (
+        antipsychotic*[Title/Abstract]
+        OR antidepressant*[Title/Abstract]
+        OR lithium[Title/Abstract]
+        OR valproate[Title/Abstract]
+        OR clozapine[Title/Abstract]
+        OR olanzapine[Title/Abstract]
+        OR risperidone[Title/Abstract]
+        OR quetiapine[Title/Abstract]
+      )
+      AND
+      (
+        parkinsonism[Title/Abstract]
+        OR "drug-induced parkinsonism"[Title/Abstract]
+        OR "tardive dyskinesia"[Title/Abstract]
+        OR dystonia[Title/Abstract]
+        OR akathisia[Title/Abstract]
+        OR "neuroleptic malignant syndrome"[Title/Abstract]
+        OR "serotonin syndrome"[Title/Abstract]
+        OR cognitive impairment[Title/Abstract]
+        OR seizure*[Title/Abstract]
+      )
+
+  - id: late_life_psychiatry_cognition
+    name: "老年精神障碍与认知损害"
+    priority: 4
+    query: >
+      (
+        "late-life depression"[Title/Abstract]
+        OR "geriatric depression"[Title/Abstract]
+        OR schizophrenia[Title/Abstract]
+        OR bipolar disorder[Title/Abstract]
+        OR anxiety disorder[Title/Abstract]
+      )
+      AND
+      (
+        cognition[Title/Abstract]
+        OR cognitive impairment[Title/Abstract]
+        OR dementia[Title/Abstract]
+        OR neurodegeneration[Title/Abstract]
+        OR brain atrophy[Title/Abstract]
+        OR MRI[Title/Abstract]
+      )
+
+  - id: biomarkers_imaging
+    name: "神经退行性疾病影像与生物标志物"
+    priority: 4
+    query: >
+      (
+        Alzheimer*[Title/Abstract]
+        OR Parkinson*[Title/Abstract]
+        OR dementia[Title/Abstract]
+        OR neurodegenerative[Title/Abstract]
+      )
+      AND
+      (
+        biomarker*[Title/Abstract]
+        OR "neurofilament light"[Title/Abstract]
+        OR NfL[Title/Abstract]
+        OR GFAP[Title/Abstract]
+        OR tau[Title/Abstract]
+        OR amyloid[Title/Abstract]
+        OR alpha-synuclein[Title/Abstract]
+        OR MRI[Title/Abstract]
+        OR PET[Title/Abstract]
+        OR cerebrospinal fluid[Title/Abstract]
+      )
+
+exclude_keywords:
+  - "zebrafish"
+  - "drosophila"
+  - "cell line"
+  - "molecular docking"
