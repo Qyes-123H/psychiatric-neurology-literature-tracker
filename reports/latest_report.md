@@ -1,6 +1,6 @@
 # Psychiatric-Neurology Literature Tracker 周报
 
-生成日期：2026-10-12
+生成日期：2026-10-19
 
 > 定位：精神科专科医院中的神经内科临床与科研文献追踪。重点关注神经退行性疾病、精神行为症状、器质性精神障碍鉴别、精神科药物相关神经系统问题、影像与生物标志物。
 
@@ -8,483 +8,450 @@
 
 | 优先级 | 评分 | 题目 | 期刊 | PMID |
 |---|---:|---|---|---|
-| 必读 | 31 | [Hyperactive Delirium Temporally Associated With Hydroxyzine in a Child With Succinic Semialdehyde Dehydrogenase Deficiency Presenting With Psychotic Symptoms: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42851809/) | Case reports in psychiatry | 42851809 |
-| 必读 | 23 | [Microbiota-Brain Interactions in Dementia: Role of Diet in Neuroinflammation.](https://pubmed.ncbi.nlm.nih.gov/42843795/) | Annals of geriatric medicine and research | 42843795 |
-| 必读 | 23 | [Depression and anxiety in vascular dementia: an update.](https://pubmed.ncbi.nlm.nih.gov/42841964/) | Journal of neural transmission (Vienna, Austria : 1996) | 42841964 |
-| 必读 | 22 | [Accelerated brain aging as a transdiagnostic biomarker: A lifespan MRI brain age study across seven disorders.](https://pubmed.ncbi.nlm.nih.gov/42839301/) | Psychological medicine | 42839301 |
-| 必读 | 22 | [Regional amyloid-PET clearance dynamics and anti-Aβ monoclonal antibody therapy: a preliminary real-world study.](https://pubmed.ncbi.nlm.nih.gov/42857419/) | Alzheimer's & dementia (Amsterdam, Netherlands) | 42857419 |
+| 必读 | 28 | [Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.](https://pubmed.ncbi.nlm.nih.gov/42886876/) | Neurology | 42886876 |
+| 必读 | 28 | [Integration of blood-based biomarkers and genomic variants identifies individuals with mild cognitive impairment who benefit from multidomain intervention.](https://pubmed.ncbi.nlm.nih.gov/42890602/) | Alzheimer's & dementia (New York, N. Y.) | 42890602 |
+| 必读 | 27 | [Depression and amyloid-β across CSF, PET, and plasma biomarkers: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42532327/) | Neuroscience | 42532327 |
+| 必读 | 20 | [Affective symptoms in focal epilepsy: A scoping review of localization and lateralizing findings.](https://pubmed.ncbi.nlm.nih.gov/42873623/) | Epileptic disorders : international epilepsy journal with videotape | 42873623 |
+| 必读 | 19 | [Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.](https://pubmed.ncbi.nlm.nih.gov/42886878/) | Neurology | 42886878 |
 
 ## 二、AI 中文临床总结
 
-### 1. Hyperactive Delirium Temporally Associated With Hydroxyzine in a Child With Succinic Semialdehyde Dehydrogenase Deficiency Presenting With Psychotic Symptoms: A Case Report.
-
-- 期刊：Case reports in psychiatry
-- 发表日期：2026-10-08
-- PMID：[42851809](https://pubmed.ncbi.nlm.nih.gov/42851809/)
-- 主题：精神症状背后的器质性神经疾病鉴别、精神科药物相关神经系统问题
-- 自动评分：31（必读）
-
-## 1. 一句话结论
-本病例报告提示：在发育脆弱儿童中，SSADHD 可表现为精神病性症状，但需警惕叠加的谵妄，且羟嗪可能加重或延长谵妄状态。
-
-## 2. 研究对象与疾病背景
-- **核心疾病**：琥珀酸半醛脱氢酶缺乏症（SSADHD），一种罕见的 GABA 代谢障碍，由 ALDH5A1 双等位基因变异所致。
-- **涉及症状/疾病**：发育迟缓、智力障碍、癫痫、睡眠障碍、焦虑、精神病性症状（听幻觉、视幻觉）、谵妄（活动过度型）。
-- **涉及药物**：羟嗪（抗组胺药，具抗胆碱能/镇静作用）、喹硫平（低剂量）。
-- **鉴别诊断主题**：原发精神病性障碍 vs. 器质性脑病（SSADHD）vs. 物质/药物所致谵妄。
-
-## 3. 主要发现
-1. **SSADHD 可在儿童中表现为新发精神病性症状**（听、视幻觉），但常与谵妄叠加，而非单纯精神病。
-2. **谵妄特征明确**：注意力受损、睡眠-觉醒严重紊乱、惊跳反应增强、无法安抚、波动性激越和行为组织瓦解。
-3. **羟嗪暴露后症状持续/加重**：住院第5–7天共使用6次羟嗪，虽短期镇静，但未改善幻觉或睡眠，且谵妄表现持续突出。
-4. **停用羟嗪并换用低剂量喹硫平+环境干预后**，睡眠、食欲、进食和行为调节均改善。
-5. **诊断依据**：尿4-羟基丁酸升高、MRI 双侧苍白球和齿状核特征性改变、ALDH5A1 纯合错义变异（c.434A>G, p.Glu145Gly，VUS但临床符合）。
-6. **因果判断谨慎**：羟嗪被视为“可能加重或延长因素”，而非谵妄的唯一定因。
-
-## 4. 对精神科专科医院神经内科的意义
-- **鉴别原发精神障碍 vs. 器质性脑病**：**高度相关**。提示对儿童急性精神病性症状需排查 SSADHD 等先天性代谢病，并区分精神病 vs. 谵妄。
-- **管理痴呆患者的精神行为症状**：**间接相关**。SSADHD 非痴呆，但谵妄识别、抗精神病药选择原则可迁移至痴呆伴谵妄的管理。
-- **精神科药物相关神经系统不良反应**：**直接相关**。羟嗪（抗组胺药）可能诱发/加重谵妄，提示精神科常用辅助药物需谨慎。
-- **指导评估**：**是**。支持尿有机酸、MRI（苍白球/齿状核）、EEG、ALDH5A1 基因检测；强调睡眠-觉醒、注意力、惊跳反应等谵妄量表评估。
-
-## 5. 临床可用性评分
-**建议阅读**
-理由：罕见病但鉴别思路重要，尤其对儿童急性精神病性症状合并谵妄、抗组胺药风险有警示价值；病例单一，证据等级有限。
-
-## 6. 可用于科室分享的一句话
-“儿童急性精神病性症状别只想到精神分裂症——先排除 SSADHD 等代谢性脑病和叠加谵妄，羟嗪这类‘温和’药物也可能把谵妄拖得更久。”
-
-### 2. Microbiota-Brain Interactions in Dementia: Role of Diet in Neuroinflammation.
-
-- 期刊：Annals of geriatric medicine and research
-- 发表日期：2026-10-07
-- PMID：[42843795](https://pubmed.ncbi.nlm.nih.gov/42843795/)
-- 主题：痴呆与神经退行性疾病的精神行为症状
-- 自动评分：23（必读）
-
-## 1. 一句话结论
-这篇综述指出肠道菌群失调通过“肠-脑轴”促进神经炎症并参与痴呆发病，而富含纤维、抗氧化物和抗炎成分的饮食可能通过调节菌群来预防和管理痴呆。
-
-## 2. 研究对象与疾病背景
-- **疾病类型**：阿尔茨海默病（AD，最常见）、血管性痴呆（VaD）、额颞叶痴呆（FTD）、路易体病（LBD）。
-- **核心病理**：AD 的淀粉样斑块、FTD 的 tau 缠结等。
-- **相关症状维度**：运动缺陷、行为改变、神经精神症状（neuropsychiatric disturbances）。
-- **机制背景**：肠道菌群失调（gut dysbiosis）、神经炎症、认知下降、血脑屏障（BBB）完整性受损。
-- **关键菌群与代谢物**：拟杆菌属（Bacteroides）、厚壁菌门（Firmicutes）；短链脂肪酸（如丁酸盐）具抗炎作用；色氨酸衍生物（如吲哚-3-乙酸 IAA）支持肠屏障并调节神经炎症通路。
-
-## 3. 主要发现
-1. 肠道菌群失调通过肠-脑轴（GBA）与神经炎症、认知下降及神经退行性疾病相关联。
-2. 特定菌群代谢物（SCFAs、色氨酸衍生物）可调节神经炎症、免疫反应和血脑屏障完整性。
-3. 微生物来源的代谢物可作为潜在治疗靶点，以减轻神经退行性变。
-4. 饮食干预（富含纤维、抗氧化物、抗炎化合物）可能通过促进菌群平衡来降低痴呆风险。
-5. 不同痴呆亚型有各自独特的病理特征，但菌群-脑相互作用可能是跨亚型的共同调节环节。
-
-## 4. 对精神科专科医院神经内科的意义
-- **鉴别“原发精神障碍”与“器质性脑病”**：间接相关。本文未提供具体鉴别诊断工具，但强调 FTD、LBD 等可表现为行为改变和神经精神症状，提示对以精神症状起病的患者需考虑痴呆亚型，菌群代谢物未来或可作为辅助生物学线索。
-- **管理痴呆患者的精神行为症状（BPSD）**：有一定参考价值。饮食干预作为非药物策略，可能通过调节菌群-神经炎症轴间接改善 BPSD，但本文未直接评估精神行为症状结局。
-- **精神科药物相关神经系统不良反应**：未涉及。本文未讨论抗精神病药、抗抑郁药等对菌群或神经系统的影响。
-- **指导影像、脑脊液、血液标志物或量表评估**：目前不直接指导。菌群代谢物（SCFAs、IAA）尚属研究阶段，未进入临床常规检测；影像和量表仍依赖现有痴呆评估体系。
-
-## 5. 临床可用性评分
-**可浏览**
-
-理由：本文为机制性综述，提供肠-脑轴与饮食干预的理论视角，但缺乏可直接落地的诊断或治疗推荐，对精神科神经内科日常鉴别和 BPSD 管理的直接指导有限。
-
-## 6. 可用于科室分享的一句话
-“痴呆不只是脑子的病——肠道菌群通过肠-脑轴参与神经炎症，未来饮食调节菌群或许能成为预防和管理痴呆精神行为症状的新思路。”
-
-### 3. Depression and anxiety in vascular dementia: an update.
-
-- 期刊：Journal of neural transmission (Vienna, Austria : 1996)
-- 发表日期：2026-10-07
-- PMID：[42841964](https://pubmed.ncbi.nlm.nih.gov/42841964/)
-- 主题：痴呆与神经退行性疾病的精神行为症状、老年精神障碍与认知损害
-- 自动评分：23（必读）
-
-## 1. 一句话结论
-血管性痴呆（VaD）中抑郁和焦虑的患病率远高于阿尔茨海默病（AD），且与脑小血管病、白质病变及神经炎症密切相关，临床需重视其识别与多模式干预。
-
-## 2. 研究对象与疾病背景
-- **核心疾病**：血管性痴呆（VaD）
-- **共病精神症状**：抑郁（患病率20%–86%）、焦虑（患病率高达72%）
-- **对照疾病**：阿尔茨海默病（AD）、AD合并VaD
-- **相关病理机制**：脑小血管病（CSVD）、脑白质病变、额叶-皮质下环路损伤、神经炎症、神经营养支持受损、神经递质/犬尿氨酸通路失衡
-- **鉴别诊断范畴**：晚发性抑郁、重性抑郁障碍（MDD）与VaD相关抑郁的鉴别
-
-## 3. 主要发现
-1. **患病率显著高于AD**：VaD患者中抑郁和焦虑的发生率及严重程度均高于AD患者，且抑郁与VaD互为风险因素。
-2. **预后更差**：VaD合并抑郁者共病更多、死亡率更高；痴呆前抑郁病史在VaD中比AD更常见。
-3. **诊断争议**：VaD/抑郁是否应作为独立亚型尚存争议——部分研究支持其区别于晚发性抑郁和MDD，但也有报道称VaD、AD及混合型痴呆的抑郁症状谱 broadly 相似。
-4. **生物标志物支持诊断**：高CSVD负荷、白质高信号、可见血管周围间隙、炎症标志物、神经丝轻链（NfL）等多标志物可辅助VaD/抑郁的临床诊断。
-5. **治疗策略**：抗抑郁药疗效有限；治疗血管和代谢共病是潜在预防靶点；ECT和经颅直流电刺激（tDCS）可作为增效治疗，但需进一步验证。
-
-## 4. 对精神科专科医院神经内科的意义
-- **鉴别“原发精神障碍”与“器质性脑病”** ：**高度相关**。文章强调VaD/抑郁可能是一种独立亚型，需与晚发性抑郁和MDD鉴别，提示神经内科在会诊时需警惕脑血管病因导致的抑郁。
-- **管理痴呆患者的精神行为症状**：**直接相关**。为VaD患者抑郁/焦虑的识别、评估和治疗提供了更新依据，尤其是抗抑郁药反应有限时的替代策略（ECT、tDCS）。
-- **精神科药物相关神经系统不良反应**：**间接相关**。文章未直接涉及精神科药物不良反应，但提到治疗血管/代谢共病的重要性，提示需关注代谢综合征等药物相关风险。
-- **指导影像、脑脊液、血液标志物或量表评估**：**高度相关**。明确提及CSVD负荷、白质高信号、血管周围间隙、炎症标志物、NfL等可作为辅助诊断标志物，对神经内科评估手段有直接指导意义。
-
-## 5. 临床可用性评分
-**建议阅读**
-
-理由：对VaD共病抑郁/焦虑的流行病学、机制、标志物及治疗有系统更新，有助于精神科医院神经内科会诊时鉴别器质性抑郁与功能性抑郁，但未涉及精神科药物不良反应，治疗建议尚需更多证据。
-
-## 6. 可用于科室分享的一句话
-“血管性痴呆患者的抑郁和焦虑比阿尔茨海默病更常见、更严重，且抗抑郁药效果有限——遇到老年抑郁患者时，别忘了查查脑小血管病和白质病变，治疗血管危险因素可能比单纯加抗抑郁药更有价值。”
-
-### 4. Accelerated brain aging as a transdiagnostic biomarker: A lifespan MRI brain age study across seven disorders.
-
-- 期刊：Psychological medicine
-- 发表日期：2026-10-07
-- PMID：[42839301](https://pubmed.ncbi.nlm.nih.gov/42839301/)
-- 主题：痴呆与神经退行性疾病的精神行为症状、老年精神障碍与认知损害
-- 自动评分：22（必读）
-
-## 1. 一句话结论
-这项大型寿命跨度MRI研究证实，精神分裂症、额颞叶痴呆、阿尔茨海默病、双相障碍、重性抑郁及慢性物质使用障碍患者均存在显著加速的脑老化（brain-PAD升高），提示脑龄差可作为跨诊断的脑结构生物学标志物。
-
-## 2. 研究对象与疾病背景
-- **疾病群体**：精神分裂症（SZ）、重性抑郁障碍（MDD）、双相障碍（BD）、注意缺陷多动障碍（ADHD）、慢性物质使用障碍（CSUD）、阿尔茨海默病（AD）、额颞叶痴呆（FTD）。
-- **对照与建模样本**：25,425名健康人（2–95岁）用于训练脑龄模型；1,793名年龄匹配对照用于临床比较；另有独立验证队列（270横断面+188纵向）。
-- **核心指标**：brain-PAD（脑预测年龄差），经年龄偏倚校正后计算。
-- **背景**：脑老化加速被认为与多种神经精神疾病相关，但既往研究受限于寿命建模不足和年龄偏倚校正不充分，结果不一致。
-
-## 3. 主要发现
-1. **模型性能良好**：脑龄模型在验证与独立队列中平均绝对误差约5–7年，健康人brain-PAD中位数接近零，纵向分析可追踪个体内老化轨迹。
-2. **多疾病脑老化加速**：Δbrain-PAD显著升高见于SZ（+7.64年）、FTD（+7.61年）、AD（+3.24年）、CSUD（+2.91年）、MDD（+2.76年）、BD（+2.08年）；ADHD未见显著升高。
-3. **共享与疾病特异性形态学改变**：区域形态学分析显示各疾病既有共同也有特异的脑结构改变。
-4. **关键影像特征**：SHAP分析提示脑室扩大和额顶叶皮层特征对脑龄预测贡献最大。
-5. **跨诊断框架**：brain-PAD可量化精神疾病与神经退行性疾病中的脑结构变异，提供寿命跨度脑老化研究框架。
-
-## 4. 对精神科专科医院神经内科的意义
-- **鉴别原发精神障碍与器质性脑病**：**有潜在价值但需谨慎**。brain-PAD升高在SZ、BD、MDD等原发精神障碍中同样显著，并非器质性脑病特异标志，不能单独用于鉴别；但FTD（+7.61年）与SZ（+7.64年）几乎重叠，提示在精神科医院中遇到年轻患者脑老化显著时，仍需结合临床、基因、脑脊液等排除FTD等器质性病因。
-- **管理痴呆患者精神行为症状**：**间接相关**。研究涉及AD和FTD，但未直接评估BPSD；脑老化加速程度可能反映神经退行性病理负荷，未来或有助于分层管理，但目前无直接指导BPSD治疗的数据。
-- **精神科药物相关神经系统不良反应**：**未涉及**。研究未分析药物暴露与brain-PAD的关系，无法回答此问题。
-- **指导影像、脑脊液、血液标志物或量表评估**：**对影像评估有启发**。研究强调结构MRI脑龄模型、脑室扩大和额顶叶皮层特征，提示在精神科医院可考虑将结构MRI脑龄评估作为辅助工具；但未涉及脑脊液、血液标志物或量表，尚不能直接指导这些检查。
-
-## 5. 临床可用性评分
-**建议阅读**
-理由：大样本、跨诊断、方法学严谨，有助于理解脑老化在精神与神经疾病中的共享机制；但brain-PAD目前尚不能直接用于个体化鉴别诊断，临床落地需结合其他检查。
-
-## 6. 可用于科室分享的一句话
-“这项跨度2–95岁的大型MRI研究发现，精神分裂症和额颞叶痴呆患者的脑龄差都加速约7.6年——提醒我们在精神科病房遇到‘脑老化’显著的患者时，既要考虑原发精神障碍，也要警惕潜在的神经退行性疾病。”
-
-### 5. Regional amyloid-PET clearance dynamics and anti-Aβ monoclonal antibody therapy: a preliminary real-world study.
-
-- 期刊：Alzheimer's & dementia (Amsterdam, Netherlands)
-- 发表日期：2026-10-09
-- PMID：[42857419](https://pubmed.ncbi.nlm.nih.gov/42857419/)
-- 主题：神经退行性疾病影像与生物标志物
-- 自动评分：22（必读）
-
-## 1. 一句话结论
-抗Aβ单抗治疗6个月后脑内淀粉样蛋白清除存在显著区域异质性，额叶、前扣带回和顶叶清除最明显，而枕叶和内侧颞叶相对保留，全球Centiloid指标可能掩盖这一差异。
-
-## 2. 研究对象与疾病背景
-- **疾病**：早期症状性阿尔茨海默病（AD），包括轻度认知障碍（MCI）阶段和轻度痴呆阶段
-- **治疗**：lecanemab 或 donanemab（抗Aβ单克隆抗体）
-- **影像标志物**：淀粉样蛋白PET（全球Centiloid及区域SUVR）
-- **未涉及**：PD、DLB、FTD、自身免疫性脑炎、谵妄等
-
-## 3. 主要发现
-1. 26例患者接受lecanemab或donanemab治疗6个月，淀粉样蛋白清除呈**区域异质性**，并非全脑均匀减少。
-2. **MCI患者**皮层淀粉样蛋白减少幅度大于轻度痴呆患者，提示早期治疗可能清除效果更佳。
-3. 早发型与晚发型AD的清除模式**相当**，未见显著差异。
-4. **额叶、前扣带回、顶叶**SUVR下降最显著；**枕叶皮层和内侧颞叶** consistently spared，即使达到全球PET阴性的患者亦然。
-5. 全球Centiloid指标**不能完整反映**区域清除动态，可能低估或掩盖局部残留。
-
-## 4. 对精神科专科医院神经内科的意义
-- **鉴别原发精神障碍与器质性脑病**：间接相关。淀粉样蛋白PET是AD器质性诊断的核心工具，区域清除异质性提示解读PET时需关注区域模式，而非仅看全球定性结果，有助于避免将早期AD误判为功能性精神障碍。
-- **管理痴呆患者的精神行为症状**：间接相关。内侧颞叶和枕叶清除受限可能与持续认知/精神症状相关，但本文未直接评估BPSD。
-- **精神科药物相关神经系统不良反应**：不涉及。
-- **指导影像/标志物评估**：**是**。提示临床解读淀粉样蛋白PET时应关注区域SUVR动态，尤其额叶-扣带回-顶叶通路；全球阴性不代表区域完全清除，对疗效判断和后续治疗决策有潜在影响。
-
-## 5. 临床可用性评分
-**建议阅读**
-
-理由：对淀粉样蛋白PET区域解读有提示价值，尤其接受抗Aβ治疗患者的疗效评估；但样本小、观察期短，尚未直接涉及精神科核心鉴别场景。
-
-## 6. 可用于科室分享的一句话
-“抗淀粉样蛋白治疗6个月后，脑内斑块清除并不均匀——额叶和顶叶清得快，枕叶和内侧颞叶清得慢，全球PET转阴不等于区域彻底清除，读片时别只看一个总数。”
-
-### 6. Residualized occipital amyloid burden and plasma biomarker profiles in relation to ARIA-E during anti-amyloid treatment.
-
-- 期刊：Alzheimer's & dementia (Amsterdam, Netherlands)
-- 发表日期：2026-10-09
-- PMID：[42857403](https://pubmed.ncbi.nlm.nih.gov/42857403/)
-- 主题：神经退行性疾病影像与生物标志物
-- 自动评分：21（必读）
-
-## 1. 一句话结论
-在接受抗淀粉样蛋白单抗治疗的早期阿尔茨海默病患者中，枕叶淀粉样蛋白负荷相对全局不成比例升高者，ARIA-E（淀粉样蛋白相关影像异常-水肿）风险显著增加，且基线血浆GFAP和p-tau217升高可能辅助识别这一高危亚组。
-
-## 2. 研究对象与疾病背景
-- **疾病**：早期阿尔茨海默病（AD），接受抗淀粉样蛋白单克隆抗体治疗。
-- **核心安全性事件**：ARIA-E（淀粉样蛋白相关影像异常伴水肿），为抗淀粉样蛋白治疗的主要安全性关注点。
-- **相关生物标志物**：血浆GFAP（胶质纤维酸性蛋白）、p-tau181、p-tau217、Aβ42/40。
-- **影像标志物**：枕叶淀粉样蛋白PET SUVR（标准化摄取值比）。
-- **未直接涉及**：PD、DLB、FTD、自身免疫性脑炎、谵妄等，但ARIA-E的鉴别诊断在精神科/神经科临床中具有重要参考价值。
-
-## 3. 主要发现
-1. **ARIA-E仅出现在枕叶淀粉样蛋白相对升高组**：4/13治疗疗程发生ARIA-E，而低/相当组0/18发生（Fisher精确检验 p=0.055，趋势显著但未达传统统计学阈值）。
-2. **所有ARIA-E事件均累及后部脑区**，提示枕叶淀粉样蛋白拓扑分布与ARIA-E发生部位高度一致。
-3. **枕叶淀粉样蛋白相对升高组基线血浆GFAP、p-tau181、p-tau217更高**，而Aβ42/40两组间无差异。
-4. **GFAP + p-tau217联合模型**对枕叶淀粉样蛋白升高表型具有探索性判别能力（AUC=0.76）。
-5. **结论**：不成比例的枕叶淀粉样蛋白负荷可能标识一个生物学脆弱亚组，需更大样本验证。
-
-## 4. 对精神科专科医院神经内科的意义
-
-**（1）是否有助于鉴别“原发精神障碍”与“器质性脑病”？**
-间接有帮助。该研究聚焦AD治疗中的ARIA-E，但ARIA-E可表现为头痛、意识模糊、癫痫、精神症状等，易被误认为原发精神障碍。了解ARIA-E的后部脑区倾向及影像特征，有助于在精神科环境中识别抗淀粉样蛋白治疗相关的器质性脑病。
-
-**（2）是否有助于管理痴呆患者的精神行为症状？**
-有限。该研究未直接涉及BPSD管理，但ARIA-E本身可表现为急性精神症状，识别后需停用/调整抗淀粉样蛋白药物，而非单纯加用抗精神病药。
-
-**（3）是否涉及精神科药物相关神经系统不良反应？**
-不涉及。该研究关注的是抗淀粉样蛋白单抗的神经系统不良反应，而非精神科药物。
-
-**（4）是否能指导影像、脑脊液、血液标志物或量表评估？**
-有参考价值：
-- **影像**：强调枕叶淀粉样蛋白PET拓扑分析及MRI监测ARIA-E（FLAIR序列后部高信号）。
-- **血液标志物**：GFAP、p-tau217、p-tau181可能辅助风险分层。
-- **量表**：未涉及。
-
-## 5. 临床可用性评分
-**可浏览**
-
-理由：研究样本极小（31疗程），ARIA-E事件仅4例，p值未达显著，结论为探索性。对精神科神经内科日常工作的直接指导有限，但了解ARIA-E的临床-影像-生物标志物特征对鉴别器质性精神症状有参考意义。
-
-## 6. 可用于科室分享的一句话
-“抗淀粉样蛋白治疗中，枕叶淀粉样蛋白负荷不成比例升高的AD患者发生ARIA-E的风险更高，且基线血浆GFAP和p-tau217升高——遇到此类患者出现急性精神症状或意识改变时，要想到ARIA-E而非单纯精神科病因。”
-
-### 7. Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.
+### 1. Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.
 
 - 期刊：Neurology
-- 发表日期：2026-10-05
-- PMID：[42837647](https://pubmed.ncbi.nlm.nih.gov/42837647/)
+- 发表日期：2026-10-16
+- PMID：[42886876](https://pubmed.ncbi.nlm.nih.gov/42886876/)
 - 主题：神经退行性疾病核心进展、神经退行性疾病影像与生物标志物
+- 自动评分：28（必读）
+
+## 1. 一句话结论
+中年期血浆 p-tau181 即可预测约 20 年后的记忆衰退，而晚年期 p-tau181、NfL、GFAP 分别与不同认知域衰退相关，提示 AD 血液标志物可提前数十年识别认知衰退高危人群。
+
+## 2. 研究对象与疾病背景
+- 研究疾病：阿尔茨海默病（AD）及认知衰退（记忆、语言、执行功能、整体认知）。
+- 人群：ARIC-NCS 前瞻性队列，1,515 名参与者（60.7% 女性，25.5% 黑人），中年期（平均 59.0 岁）与晚年期（平均 76.8 岁）各测一次血浆标志物，随访 11 年（2011–2022）。
+- 标志物：Aβ42/40（淀粉样病理）、p-tau181（tau 病理）、NfL（神经变性）、GFAP（神经炎症）。
+- 不涉及：PD、DLB、FTD、谵妄、自身免疫性脑炎、精神科药物不良反应。
+
+## 3. 主要发现
+1. 中年期 p-tau181 每升高 1 SD，晚年记忆衰退显著加快（β=-0.030，95%CI -0.059~-0.001），提示前驱期可长达约 20 年。
+2. 中年期 Aβ42/40、NfL、GFAP 与后续任何认知域衰退均无显著关联。
+3. 晚年期 p-tau181、NfL、GFAP 均与多个认知域加速衰退相关，其中 p-tau181 与记忆的关联最强（β=-0.091）。
+4. 晚年期 NfL、GFAP 亦与记忆衰退相关（β 分别为 -0.064、-0.048），但效应弱于 p-tau181。
+5. 不同标志物对应不同认知域，提示病理机制与认知表型的对应关系。
+
+## 4. 对精神科专科医院神经内科的意义
+- **鉴别原发精神障碍与器质性脑病**：间接有帮助。p-tau181 可作为认知衰退的客观血液指标，辅助识别以“记忆下降、轻度认知障碍”为表现、易被误判为抑郁或焦虑相关认知症状的患者；但本研究不涉及精神病性症状或谵妄鉴别。
+- **管理痴呆患者精神行为症状**：不直接涉及 BPSD，但早期识别认知衰退高危者可支持更早的照护规划与精神行为症状预防。
+- **精神科药物相关神经系统不良反应**：不涉及。
+- **指导评估**：直接支持血浆 p-tau181 作为中年期风险分层与晚年期认知随访的血液标志物；未涉及影像、脑脊液或量表，但可与神经心理量表联合使用。
+
+## 5. 临床可用性评分
+**建议阅读**
+理由：为血浆 p-tau181 预测长期认知衰退提供高质量队列证据，支持在记忆门诊/认知障碍评估中引入血液标志物；但不涉及精神科核心鉴别场景，临床落地需结合本地检测条件。
+
+## 6. 可用于科室分享的一句话
+中年期查一次血浆 p-tau181，可能提前 20 年提示记忆衰退风险——AD 的“前驱期”比我们想象的更长，血液标志物值得纳入认知障碍的早期评估。
+
+### 2. Integration of blood-based biomarkers and genomic variants identifies individuals with mild cognitive impairment who benefit from multidomain intervention.
+
+- 期刊：Alzheimer's & dementia (New York, N. Y.)
+- 发表日期：2026-10-16
+- PMID：[42890602](https://pubmed.ncbi.nlm.nih.gov/42890602/)
+- 主题：神经退行性疾病影像与生物标志物
+- 自动评分：28（必读）
+
+## 1. 一句话结论
+在 MCI 人群中，基于血液生物标志物（尤其 GFAP 升高伴多指标异常）可划分出生物学上更具进展性的亚组，该亚组从多领域生活方式干预中获益更明显，提示血液标志物（联合遗传信息）可用于筛选干预获益人群。
+
+## 2. 研究对象与疾病背景
+- 研究对象：J-MINT 试验中的轻度认知障碍（MCI）患者。
+- 疾病背景：阿尔茨海默病（AD）连续谱，聚焦 AD 相关病理（Aβ42/40、p-tau217、NfL、GFAP）与认知下降轨迹；不涉及 PD、DLB、FTD、谵妄、自身免疫性脑炎等。
+- 干预：多领域生活方式干预 vs 对照。
+
+## 3. 主要发现
+1. 基于四种血液标志物（Aβ42/40、p-tau217、NfL、GFAP）的层次聚类可识别出生物学上不同的 MCI 亚组。
+2. 其中一个亚组表现为 GFAP 升高并伴多项标志物异常，提示更活跃的 AD 相关病理/胶质激活状态。
+3. 该亚组内，18 个月认知变化在干预组与对照组间差异显著，对照组下降更明显，即干预获益更大。
+4. GWAS 发现 4 个与亚组归属提示相关的变异，其中 2 个位于听力损失相关基因（PCDH15、ATP11A）内含子区。
+5. 结合遗传变异、年龄、性别和 APOE4 等位基因数的预测模型经五折交叉验证（重复 1000 次）评估。
+
+## 4. 对精神科专科医院神经内科的意义
+- **鉴别原发精神障碍与器质性脑病**：间接有帮助。GFAP、NfL、p-tau217 等血液标志物有助于识别潜在神经退行性病理，可作为认知/精神症状患者器质性病因筛查的辅助工具，但本研究未涉及精神障碍鉴别诊断。
+- **管理痴呆患者精神行为症状（BPSD）**：不直接涉及 BPSD 评估或干预，但识别“更可能进展”的 MCI 亚组，有助于早期分层管理和家属沟通。
+- **精神科药物相关神经系统不良反应**：不涉及。
+- **指导影像、脑脊液、血液标志物或量表评估**：主要价值在血液标志物（GFAP 为核心）和量表（认知轨迹）层面；未涉及影像或脑脊液；遗传信息（APOE4、GWAS 变异）可作为补充分层因素。
+
+## 5. 临床可用性评分
+**建议阅读**
+理由：为血液标志物用于 MCI 分层和干预获益预测提供新证据，GFAP 的临床价值值得关注；但属干预试验二次分析，样本与人群受限，尚不能直接改变本科室诊疗流程。
+
+## 6. 可用于科室分享的一句话
+“这项 J-MINT 二次分析提示：查一下血 GFAP 等标志物，可能帮我们挑出那些认知下降更快、也更值得早期干预的 MCI 患者——血液标志物正在从‘诊断’走向‘分层与预后’。”
+
+### 3. Depression and amyloid-β across CSF, PET, and plasma biomarkers: a systematic review and meta-analysis.
+
+- 期刊：Neuroscience
+- 发表日期：2026-07-30
+- PMID：[42532327](https://pubmed.ncbi.nlm.nih.gov/42532327/)
+- 主题：痴呆与神经退行性疾病的精神行为症状
+- 自动评分：27（必读）
+
+## 1. 一句话结论
+系统综述与荟萃分析显示，抑郁与淀粉样蛋白（Aβ）负荷之间整体上无显著关联，但影像定量方法（DVR vs SUVR）可能显著影响结论，提示抑郁更可能是修饰Aβ的临床效应而非改变其沉积量。
+
+## 2. 研究对象与疾病背景
+涉及阿尔茨海默病（AD）的Aβ病理（脑脊液、PET、血浆生物标志物）与晚发抑郁/抑郁症状的关系。核心疾病背景为AD连续谱与老年抑郁的鉴别，未直接涉及PD、DLB、FTD、谵妄或自身免疫性脑炎。
+
+## 3. 主要发现
+- 纳入24项研究（2000–2025），覆盖CSF、PET、血浆三类Aβ标志物。
+- 汇总分析显示抑郁组与非抑郁组Aβ负荷差异很小、接近零，无统计学显著性。
+- 三类标志物分别分析结果均接近阴性，但CSF与血浆异质性较大，影像异质性中等。
+- 预设亚组分析：SUVR研究结果聚集于零，而DVR定量研究显示显著正相关，提示方法学选择关键影响结论。
+- 作者提出抑郁可能通过修饰Aβ的临床影响（而非改变Aβ沉积量）来影响AD轨迹。
+
+## 4. 对精神科专科医院神经内科的意义
+- **鉴别原发精神障碍与器质性脑病**：有一定参考价值——提示不应仅凭抑郁症状推断存在Aβ病理，抑郁本身不构成AD生物标志物阳性的预测因子，支持在精神科环境中对抑郁患者谨慎解读Aβ检测。
+- **管理痴呆患者的精神行为症状**：间接相关，提示抑郁与Aβ病理的关联弱，痴呆伴抑郁的评估应独立进行，不宜简单归因于AD病理进展。
+- **精神科药物相关神经系统不良反应**：不涉及。
+- **指导影像、脑脊液、血液标志物或量表评估**：有方法学警示价值——PET定量方法（SUVR vs DVR）可导致结论差异，科室在解读Aβ-PET报告及选择生物标志物组合时需注意方法学局限性；血浆与CSF标志物异质性大，单次检测解释需谨慎。
+
+## 5. 临床可用性评分
+**建议阅读**
+理由：为抑郁与Aβ关系的阴性荟萃证据，方法学亚组分析对生物标志物解读有警示意义；但非直接指导精神科临床处置，价值偏学术与评估规范层面。
+
+## 6. 可用于科室分享的一句话
+“这项荟萃分析提示：抑郁患者并不普遍存在Aβ负荷升高，且PET定量方法会显著影响结论——在精神科解读AD生物标志物时，别把抑郁直接当成Aβ病理的证据。”
+
+### 4. Affective symptoms in focal epilepsy: A scoping review of localization and lateralizing findings.
+
+- 期刊：Epileptic disorders : international epilepsy journal with videotape
+- 发表日期：2026-10-14
+- PMID：[42873623](https://pubmed.ncbi.nlm.nih.gov/42873623/)
+- 主题：精神症状背后的器质性神经疾病鉴别
 - 自动评分：20（必读）
 
 ## 1. 一句话结论
-血浆 pTau217（尤其是 pTau217NT 及 pTau217Mid/Aβ1-42 比值）与死后颞叶皮层 pTau217 水平高度定量相关，支持其作为脑内 tau 病理的血液替代标志物。
+局灶性癫痫发作起始时的情感症状（尤其是恐惧）具有明确的定位价值，主要指向颞叶/边缘系统，右侧半球偏优势，识别这些发作性情感症状可减少被误诊为精神障碍。
 
 ## 2. 研究对象与疾病背景
-研究对象为 32 例痴呆患者（平均年龄 66 岁，38% 女性），来自学术记忆门诊，均具备生前血浆样本及死后脑组织。最终尸检诊断：19 例阿尔茨海默病（AD），13 例额颞叶变性（FTLD，含 TDP-43 或 tau 包涵体）。涉及疾病：AD、FTLD（FTD 谱系）、tau 蛋白病、Aβ 淀粉样蛋白病理。
+- 疾病：局灶性癫痫（颞叶癫痫为主，部分额叶癫痫）
+- 症状：发作起始期情感症状——恐惧、焦虑、惊恐、悲伤、神秘感、狂喜、性相关症状、欣快（mirth）
+- 鉴别背景：这些发作性情感体验常被误判为原发性精神障碍（如惊恐障碍、焦虑障碍、抑郁）
 
 ## 3. 主要发现
-- 血浆 pTau217NT、pTau217Mid 及 pTau217Mid/Aβ1-42 比值均与颞叶皮层 pTau217NT 强相关（partial Spearman ρ = 0.73–0.78，均 p < 0.0001）。
-- 以血浆 pTau217NT 或 pTau217Mid/Aβ1-42 比值为自变量的模型拟合优于 pTau217Mid（ΔAIC = 2.5 和 1.1）。
-- 所有血浆标志物区分 AD 与非 AD 痴呆的 AUC 达 0.88–0.94，诊断性能优秀。
-- 血浆标志物与皮层 Aβ 斑块（4G8）及 pTau 聚集（AT8）密度均相关（ρ = 0.57–0.69）。
-- 校正其他病理后，仅与 pTau 聚集密度的相关性保留显著（ρ = 0.39–0.45，p < 0.05），与 Aβ 斑块密度不再显著。
+- 共纳入98项研究（多为Class IV证据），恐惧是最常见的发作期情感症状（274例，66%），以颞叶癫痫为主。
+- 悲伤、性相关、狂喜症状同样稳定关联颞叶网络；欣快（mirth）更多见于额叶起源。
+- 狂喜、神秘感、性症状呈现右侧半球偏优势，但存在双侧侧化并存的情况。
+- 边缘系统（尤其颞叶）是最常见起源部位，其次为额叶；恐惧是最常见的自发及电刺激诱发症状。
+- 将发作性情感症状识别为癫痫发作现象，有助于减少误诊并辅助药物难治性局灶性癫痫的术前评估。
 
 ## 4. 对精神科专科医院神经内科的意义
-- **鉴别原发精神障碍与器质性脑病**：有间接价值。血浆 pTau217 可作为 AD 病理的微创血液标志物，有助于在表现为精神症状（如抑郁、幻觉、行为改变）的中老年患者中识别潜在 AD 病理，辅助区分"功能性"精神障碍与神经退行性病因。
-- **管理痴呆患者的精神行为症状**：有限直接价值。本文未涉及 BPSD 评估或管理，但确认了 AD 病理的血液标志物，有助于早期明确痴呆病因，从而指导 BPSD 的病因导向管理。
+- **鉴别原发精神障碍与器质性脑病**：高度相关。论文核心即“发作性情感症状被误认为精神障碍”，为惊恐发作、发作性焦虑、发作性抑郁样表现的器质性鉴别提供定位线索（颞叶/边缘系统）。
+- **痴呆患者精神行为症状管理**：间接相关。痴呆（尤其AD、FTD）可合并癫痫，发作性情感/行为改变需与BPSD区分，但本文未直接涉及痴呆人群。
 - **精神科药物相关神经系统不良反应**：不涉及。
-- **影像、脑脊液、血液标志物或量表评估**：主要指导血液标志物评估。支持血浆 pTau217（尤其 pTau217NT 和 pTau217Mid/Aβ1-42 比值）作为 AD 病理的血液筛查工具，可减少对腰穿和 PET 的依赖；未涉及影像或量表。
+- **指导评估**：支持以症状学（发作性、短暂、刻板、伴意识/自动症改变）触发视频-EEG评估；提示颞叶/额叶定位及右侧偏优势线索，可指导EEG导联设置与神经影像（海马硬化、颞叶病灶）方向；未涉及脑脊液或血液标志物。
 
 ## 5. 临床可用性评分
 **建议阅读**
-理由：为血浆 pTau217 作为 AD 脑内病理替代标志物提供了尸检验证证据，对精神科医院中痴呆与精神障碍的鉴别诊断有潜在价值，但样本量小（n=32）、非干预性研究，暂不改变现有临床流程。
+理由：为“发作性情感症状→器质性癫痫”的鉴别提供系统症状学定位框架，契合精神科医院鉴别诊断需求；但证据等级偏低（多为Class IV），且不涉及痴呆、药物不良反应等本院常见场景。
 
 ## 6. 可用于科室分享的一句话
-"血浆 pTau217 与死后颞叶皮层 pTau217 高度相关，未来或可通过一管血帮助我们在精神症状患者中早期识别阿尔茨海默病病理，减少对腰穿和 PET 的依赖。"
+“发作性、短暂、刻板的恐惧或焦虑，尤其伴颞叶癫痫线索时，别急着诊断惊恐障碍——它可能是局灶性癫痫的发作起始症状，颞叶起源、右侧偏优势，值得安排视频-EEG。”
 
-### 8. Role of subcortical iron in Parkinson's disease, prodromal-depression, and dementia: Comparative links to anemias and osteoporosis.
+### 5. Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.
 
-- 期刊：Journal of Alzheimer's disease : JAD
-- 发表日期：2026-10-09
-- PMID：[42852947](https://pubmed.ncbi.nlm.nih.gov/42852947/)
+- 期刊：Neurology
+- 发表日期：2026-10-16
+- PMID：[42886878](https://pubmed.ncbi.nlm.nih.gov/42886878/)
+- 主题：神经退行性疾病核心进展、神经退行性疾病影像与生物标志物
+- 自动评分：19（必读）
+
+## 1. 一句话结论
+这项基于英国出生队列的前瞻性研究未发现常见病原体血清抗体与AD神经病理（血浆p-tau217、Aβ-PET）之间存在明确关联，提示“感染暴露→AD病理”的假说缺乏血清学证据支持。
+
+## 2. 研究对象与疾病背景
+- 疾病背景：阿尔茨海默病（AD）神经病理，包括脑内β-淀粉样蛋白（Aβ）沉积与tau磷酸化（p-tau217）。
+- 研究人群：1946年英国出生队列，共1356例有p-tau217完整数据、424例有Aβ-PET完整数据。
+- 暴露因素：14种病原体的循环抗体（60–64岁测定），包括HSV-1/2、CMV、VZV、EBV、弓形虫、幽门螺杆菌等，以血清阳性状态、病原体负荷指数、抗体反应滴度三分位三种方式建模。
+- 结局：69–71岁时的血浆p-tau217（主要结局）与Aβ-PET状态（次要结局）。
+
+## 3. 主要发现
+1. 主模型中，绝大多数病原体血清学指标与p-tau217及Aβ-PET均无显著关联。
+2. 唯一意外发现：HSV-2血清阳性与第75百分位p-tau217轻度降低相关（−0.07 pg/mL，95%CI −0.10~−0.03），方向与假说相反。
+3. EBV（OR 2.84，95%CI 0.95–8.52）与弓形虫（OR 1.69，95%CI 0.94–3.05）血清阳性者Aβ-PET阳性风险可能升高，但置信区间跨1，属提示性结果。
+4. 存在潜在效应修饰：APOE ε4携带状态修饰幽门螺杆菌、CMV与p-tau217的关联；教育程度修饰幽门螺杆菌的关联。
+5. 总体结论：常见感染暴露与AD神经病理标志物之间无实质性关联，病原体–基因–环境交互作用值得进一步研究。
+
+## 4. 对精神科专科医院神经内科的意义
+- **鉴别原发精神障碍与器质性脑病**：间接价值有限。本研究不支持将常见感染血清学作为AD病理的筛查或鉴别工具，不宜据此对认知/精神症状患者常规开具病原体抗体谱。
+- **痴呆精神行为症状（BPSD）管理**：无直接指导意义，未涉及BPSD评估或干预。
+- **精神科药物相关神经系统不良反应**：不涉及。
+- **影像/脑脊液/血液标志物/量表评估**：有一定方法学参考价值——血浆p-tau217作为AD病理血标志物、Aβ-PET作为金标准的分层设计，可为我科认知障碍门诊“血液标志物初筛→影像确认”的路径提供循证背景；同时提醒不要过度解读感染抗体阳性结果。
+- **科研视角**：APOE ε4与教育程度的交互分析思路，可供我科认知障碍队列研究借鉴。
+
+## 5. 临床可用性评分
+**可浏览**
+理由：阴性结果，不改变临床路径；仅对认知障碍生物标志物评估与感染–AD假说有兴趣者有价值，无直接诊疗指导意义。
+
+## 6. 可用于科室分享的一句话
+“一项英国出生队列研究提示：常见感染的血清抗体与AD的p-tau217和Aβ-PET并无实质关联——面对认知下降患者，别把‘感染抗体阳性’当作病因解释，AD病理评估仍应依靠血浆标志物与影像。”
+
+### 6. Evidence for Reduced Somatic T-Cell Receptor Sequence Diversity Profiles Among Midwestern Amish in an Aging Cohort Study.
+
+- 期刊：Annals of human genetics
+- 发表日期：2026-10-18
+- PMID：[42892741](https://pubmed.ncbi.nlm.nih.gov/42892741/)
+- 主题：神经退行性疾病核心进展、神经退行性疾病影像与生物标志物
+- 自动评分：19（必读）
+
+## 1. 一句话结论
+在美国中西部阿米什人小样本老龄队列中，T细胞受体（TCR）序列多样性在LOAD+MCI人群中呈降低趋势，且与血浆p-tau181升高存在名义关联，提示适应性免疫系统可能参与晚发性阿尔茨海默病（LOAD）的发病过程，但结果未通过严格多重校正，属初步探索性发现。
+
+## 2. 研究对象与疾病背景
+- **疾病背景**：晚发性阿尔茨海默病（LOAD）、轻度认知障碍（MCI）、非AD的认知障碍；涉及适应性免疫系统（T细胞免疫组库）与神经退行性变的关联。
+- **研究对象**：72名参与老龄化纵向研究的美国中西部阿米什人，包括临床诊断LOAD 6例、MCI 16例、认知障碍但非AD 3例、认知未受影响者35例（原文数字合计与72不完全一致，以原文为准）；部分受试者有LOAD相关血浆生物标志物数据。
+- **检测手段**：从基因组DNA对TCR β链进行免疫测序，计算Simpson克隆性（序列多样性指标）；结合HLA等位基因及血浆p-tau181等标志物分析。
+
+## 3. 主要发现
+1. LOAD+MCI组的TCR序列多样性（Simpson克隆性）低于非LOAD组，但该差异并非独立于年龄。
+2. 受试者间共享的克隆型（精确核苷酸序列）很少，其中少数共享克隆型包括EB病毒相关克隆型。
+3. HLA-A*03:01及若干HLA-DRB1等位基因在LOAD+MCI组中相对不足，但校正分析后不再显著。
+4. 在LOAD+MCI组内，血浆p-tau181升高与TCR序列多样性降低存在名义关联，且该关联独立于年龄，但经严格多重检验校正后不显著；样本量有限，无法进行异质性检验。
+5. 总体而言，TCR多样性趋势与适应性免疫系统参与LOAD的假说一致，但仅为初步证据。
+
+## 4. 对精神科专科医院神经内科的意义
+- **鉴别原发精神障碍与器质性脑病**：间接相关。本研究聚焦LOAD/MCI的免疫机制，不直接涉及精神障碍鉴别，但支持将免疫/炎症通路纳入痴呆病因评估的思路，对识别"器质性"认知障碍有一定启发。
+- **管理痴呆患者的精神行为症状**：无直接帮助。研究未涉及BPSD评估或干预。
+- **精神科药物相关神经系统不良反应**：不涉及。
+- **指导影像、脑脊液、血液标志物或量表评估**：有限相关。研究涉及血浆p-tau181与TCR多样性关联，提示血液生物标志物（p-tau181）在痴呆研究中的价值，但TCR免疫测序目前非临床常规项目，HLA分型亦无临床指导意义；对影像、脑脊液无直接指导。
+- **总体定位**：属机制探索性研究，对精神科专科医院神经内科的日常临床决策价值较低，更多是拓展对LOAD免疫病理的认识。
+
+## 5. 临床可用性评分
+**低优先级**
+理由：样本小（阿米什人群）、结果经多重校正后不显著，TCR免疫测序非临床可用工具，对精神科神经内科的鉴别诊断、BPSD管理及常规标志物评估无直接指导价值，仅作机制了解。
+
+## 6. 可用于科室分享的一句话
+"一项阿米什人小样本研究提示，晚发阿尔茨海默病和轻度认知障碍患者的T细胞受体多样性偏低、且与血浆p-tau181升高呈名义相关，支持适应性免疫参与AD发病，但证据尚属初步，暂不能用于临床决策。"
+
+### 7. Baseline MRI markers and clinical outcomes during anti-amyloid β therapy: A real-world study in a Japanese dementia center.
+
+- 期刊：The journal of prevention of Alzheimer's disease
+- 发表日期：2026-10-17
+- PMID：[42892274](https://pubmed.ncbi.nlm.nih.gov/42892274/)
+- 主题：神经退行性疾病核心进展、神经退行性疾病影像与生物标志物
+- 自动评分：19（必读）
+
+## 1. 一句话结论
+在真实世界抗Aβ治疗中，基线内侧颞叶萎缩（VSRAD Z评分）可预测功能恶化，基线微出血可预测ARIA-H发生，提示治疗前MRI具有预后与安全评估价值。
+
+## 2. 研究对象与疾病背景
+- 疾病：阿尔茨海默病（AD）——接受抗淀粉样蛋白β治疗（lecanemab 89例、donanemab 72例）的连续患者。
+- 研究场景：东京某痴呆中心2024–2026年回顾性队列，共161例。
+- 关注结局：认知（MMSE）、功能（CDR-SB）、安全性（ARIA，含ARIA-H）。
+
+## 3. 主要发现
+1. Lecanemab组在6/12/18个月CDR-SB均显著恶化（+0.79、+1.10、+1.60），记忆与定向力下降而语言相对保留。
+2. 基线内侧颞叶萎缩越重，12个月CDR-SB恶化越明显（r=0.39）；最重类别（Z≥3）恶化2.62分 vs 0.64分（校正β=+2.18，P<0.001）。
+3. 萎缩与年龄、ADAS-Cog、MMSE延迟回忆及时间定向子项相关，但与MMSE总分无关。
+4. 淀粉样蛋白PET负荷在多数时间点与结局无显著关联。
+5. 所有ARIA均无症状；ARIA-H在基线微出血者中6/25 vs 无微出血者3/136（OR=14.0，P<0.001）。Donanemab随访仅6个月。
+
+## 4. 对精神科专科医院神经内科的意义
+- **鉴别原发精神障碍与器质性脑病**：间接有帮助。强调MRI内侧颞叶萎缩量化（VSRAD）在痴呆评估中的价值，有助于将认知/行为症状归因于神经退行性病变而非原发性精神障碍。
+- **管理痴呆患者精神行为症状（BPSD）**：有限。研究未直接评估BPSD，但功能恶化轨迹（CDR-SB）与记忆/定向下降可为BPSD进展背景提供参考。
+- **精神科药物相关神经系统不良反应**：不涉及。
+- **指导影像/标志物/量表评估**：是核心价值。支持治疗前MRI（内侧颞叶萎缩分级、微出血筛查）作为预后与ARIA风险分层工具；提示MMSE总分敏感性不足，应关注延迟回忆、时间定向等子项及ADAS-Cog。
+
+## 5. 临床可用性评分
+**建议阅读**
+理由：为抗Aβ治疗前MRI风险分层提供实用依据（萎缩预测功能恶化、微出血预测ARIA-H），与本科室痴呆-器质性鉴别及影像评估流程直接相关；但样本量小、单中心、随访短，证据级别有限。
+
+## 6. 可用于科室分享的一句话
+“抗Aβ治疗前别忘了看MRI：内侧颞叶萎缩重的患者功能下降更快，有微出血的患者ARIA-H风险高14倍——治疗前影像既是预后指标也是安全筛查。”
+
+### 8. Association between IGFBP-3 and longitudinal neuropsychiatric symptom trajectories in early Parkinson's disease: a longitudinal cohort study.
+
+- 期刊：Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology
+- 发表日期：2026-10-17
+- PMID：[42891731](https://pubmed.ncbi.nlm.nih.gov/42891731/)
+- 主题：痴呆与神经退行性疾病的精神行为症状、神经退行性疾病影像与生物标志物
+- 自动评分：19（必读）
+
+## 1. 一句话结论
+在早期帕金森病患者中，基线血清IGFBP-3水平较高与未来7年焦虑和抑郁症状进展更缓慢独立相关，提示IGFBP-3可能作为PD神经精神症状长期轨迹的预后生物标志物。
+
+## 2. 研究对象与疾病背景
+- **疾病**：早期帕金森病（PD）
+- **症状维度**：焦虑症状（STAI评估）、抑郁症状（GDS-15评估）
+- **生物标志物**：胰岛素样生长因子结合蛋白-3（IGFBP-3），涉及神经营养与代谢过程
+- **研究设计**：纵向队列，352例早期PD患者，每年随访，最长7年
+
+## 3. 主要发现
+1. 基线IGFBP-3每升高1个标准差，STAI评分年增长减慢0.41分（95% CI -0.60~-0.22，P<0.001），GDS评分年增长减慢0.055分（P<0.001），均已充分校正人口学、疾病相关、代谢、全身性及治疗相关协变量（含时间变化的左旋多巴等效日剂量）。
+2. 第7年时，低IGFBP-3三分位组STAI为68.5，高三分位组为63.4，差异5.1分（95% CI 2.8~7.4，P<0.001）；GDS分别为3.17与2.36。
+3. 焦虑与抑郁互相校正后，IGFBP-3×时间交互作用仍显著（STAI β=-0.36，P=0.001；GDS β=-0.049，P=0.002），说明两者关联相对独立。
+4. 摩尔IGF-1/IGFBP-3比值与STAI、GDS纵向变化均无关联（P=0.433、P=0.498），提示起作用的可能不是IGF-1生物利用度，而是IGFBP-3本身的独立生物学效应。
+
+## 4. 对精神科专科医院神经内科的意义
+- **鉴别原发精神障碍与器质性脑病**：间接相关。本研究聚焦已确诊PD患者的症状轨迹，不直接用于鉴别诊断；但提示在PD中焦虑/抑郁可能是神经退行性过程的伴随表现，支持对晚发精神症状患者考虑器质性病因评估。
+- **管理痴呆患者的精神行为症状**：部分相关。PD为神经退行性疾病，焦虑抑郁属其常见神经精神症状；IGFBP-3有望帮助识别精神症状进展高风险患者，但尚不能直接指导干预。
+- **精神科药物相关神经系统不良反应**：不涉及。
+- **指导影像、脑脊液、血液标志物或量表评估**：有一定指导意义。支持将**血清IGFBP-3**作为PD神经精神症状预后的候选血液标志物，并规范使用**STAI、GDS-15**进行纵向量表随访；但为单中心纵向观察性研究，尚需外部验证，暂不能作为常规临床检测。
+
+## 5. 临床可用性评分
+**可浏览**
+理由：选题贴近PD神经精神症状管理，但为单一血液标志物的观察性队列研究，无干预指导价值，临床落地尚早，适合了解研究动态而非改变当前实践。
+
+## 6. 可用于科室分享的一句话
+“在早期帕金森病患者中，基线血清IGFBP-3越高，未来7年焦虑和抑郁症状进展越慢——这提示我们，PD患者的精神症状或许不只是‘心理反应’，背后可能有可测量的神经营养代谢标志物在起作用。”
+
+### 9. Brexpiprazole for Individual Agitation Symptoms in Alzheimer's Dementia: A Caregiver-Centered Post Hoc Analysis.
+
+- 期刊：Neurology and therapy
+- 发表日期：2026-10-16
+- PMID：[42888370](https://pubmed.ncbi.nlm.nih.gov/42888370/)
 - 主题：痴呆与神经退行性疾病的精神行为症状
 - 自动评分：19（必读）
 
 ## 1. 一句话结论
-基于 UK Biobank 41,581 例受试者的孟德尔随机化与定量磁化率成像证据，皮层下铁过度沉积可能因果性加速帕金森病（PD），并与前驱期抑郁、痴呆及贫血/骨质疏松存在关联，但铁螯合剂治疗无效，提示靶向 α-突触核蛋白的铁稳态调控可能是新方向。
+布瑞哌唑可改善阿尔茨海默病（AD）患者多种激越症状，包括照护者最感困扰的11项症状，且疗效可维持至24周。
 
 ## 2. 研究对象与疾病背景
-- **帕金森病（PD）**：核心研究对象，关注皮层下铁沉积的因果作用。
-- **阿尔茨海默病（AD）**：作为对照，发现皮层下铁并非显著驱动因素。
-- **血管性痴呆**：涉及灰质神经萎缩与铁死亡（ferroptosis）。
-- **前驱期抑郁（prodromal-depression）**：皮层下铁改变与抑郁相关。
-- **贫血与骨质疏松**：作为共病/关联表型，提示铁代谢的系统性联系。
-- 未直接涉及精神分裂症、双相障碍等原发精神障碍，也未涉及谵妄、自身免疫性脑炎。
+- **疾病**：阿尔茨海默病（AD）伴激越症状（agitation）
+- **人群**：610例AD伴激越患者，居住于家中或长期照护机构，中位年龄74岁，女性55.5%
+- **干预**：布瑞哌唑 2 或 3 mg/日 vs 安慰剂
+- **数据来源**：两项3期12周随机双盲试验 + 一项3期12周扩展试验
+- **评估工具**：Cohen-Mansfield激越问卷（CMAI）29项症状频率，重点分析照护者最感困扰的11项
 
 ## 3. 主要发现
-1. **因果证据**：孟德尔随机化支持皮层下铁过量因果性加速 PD，而非仅为伴随现象。
-2. **疾病特异性**：皮层下铁对 AD 无显著驱动作用；血管性痴呆更多与灰质萎缩和铁死亡相关。
-3. **跨系统关联**：抑郁、贫血、骨质疏松患者中皮层下铁均有改变，提示铁代谢与情绪/骨骼/血液系统存在共享通路。
-4. **治疗阴性结果**：铁螯合剂在 AD 和 PD 临床试验中均无获益，说明单纯降低铁负荷策略不足。
-5. **新靶点提议**：α-突触核蛋白作为铁导入蛋白，其翻译调控可能成为 PD 进展中恢复正常皮层下铁稳态的治疗策略。
+1. 11项照护者最困扰的激越症状从基线至第12周频率均下降，至第24周进一步改善（n=159）。
+2. 布瑞哌唑2/3 mg/日组在11项症状中的9项上数值优于安慰剂：咒骂/言语攻击、吐口水、重复语句/提问、打人、持续不合理求关注/求助、试图离开、踱步/无目的游走、抓人/抓物、踢人。
+3. 其余18项激越症状频率也均下降。
+4. 24周后，29项激越症状中有15项发生频率降至每周不足1次。
+5. 结果为探索性事后分析，需谨慎解读。
 
 ## 4. 对精神科专科医院神经内科的意义
-- **鉴别原发精神障碍与器质性脑病**：部分有帮助。文章提示前驱期抑郁可能与皮层下铁改变相关，为“抑郁是否为 PD 前驱期”提供生物学线索，但未提供直接鉴别诊断工具。
-- **管理痴呆患者的精神行为症状**：间接相关。血管性痴呆的铁死亡机制、PD 相关抑郁的铁代谢背景，可为理解痴呆伴情绪/行为症状提供病理生理视角，但无直接干预建议。
-- **精神科药物相关神经系统不良反应**：未涉及。文章未讨论抗精神病药、锂盐等所致神经系统不良反应与铁代谢的关系。
-- **指导影像、脑脊液、血液标志物或量表评估**：有一定指导意义。定量磁化率成像（QSM）可用于评估皮层下铁；贫血/骨质疏松相关血液指标可能作为辅助参考；但文章未提出具体临床评估流程或 cutoff 值。
-
-## 5. 临床可用性评分
-**可浏览**
-
-理由：文章提供 PD 与铁代谢的因果线索及 QSM 应用前景，但属机制性研究，缺乏直接临床干预方案，对精神科神经内科日常鉴别诊断的即时转化价值有限。
-
-## 6. 可用于科室分享的一句话
-“UK Biobank 的大数据提示皮层下铁过量可能因果性推动帕金森病，且与前驱期抑郁相关——这提醒我们，遇到抑郁伴运动/认知预警信号时，或许该想到铁代谢和 QSM，而不只是原发性抑郁。”
-
-### 9. Predictors of Seizure Occurrence After Mild Cognitive Impairment and Alzheimer's Disease in Older Adults in the Veterans Affairs Healthcare System: A Retrospective Cohort Study.
-
-- 期刊：Neurology and therapy
-- 发表日期：2026-10-06
-- PMID：[42839211](https://pubmed.ncbi.nlm.nih.gov/42839211/)
-- 主题：精神症状背后的器质性神经疾病鉴别
-- 自动评分：19（必读）
-
-## 1. 一句话结论
-在退伍军人健康系统中，MCI和AD患者的癫痫发作风险显著升高（HR分别为2.89和3.19），且脑血管病、TBI、中枢神经系统感染等共病是重要的风险预测因素。
-
-## 2. 研究对象与疾病背景
-- **核心疾病**：轻度认知障碍（MCI）、阿尔茨海默病（AD）
-- **研究结局**：癫痫发作（惊厥与癫痫，ICD-10-CM R56.x/G40.x）
-- **相关共病**：创伤性脑损伤（TBI）、中枢神经系统感染、脑血管病、出血性卒中
-- **未直接涉及**：DLB、FTD、自身免疫性脑炎、谵妄、抑郁/焦虑等精神症状
-
-## 3. 主要发现
-1. 与非MCI/AD对照相比，MCI患者癫痫风险升高约2.89倍，AD患者升高约3.19倍。
-2. 校正分析中，黑人退伍军人癫痫风险高于白人（HR 1.38）。
-3. 最强关联共病：TBI（HR 1.88）、CNS感染（HR 1.88）、脑血管病（HR 1.72）、出血性卒中（HR 1.61）。
-4. 大部分超额风险可归因于脑血管和神经系统共病。
-5. 提示这些共病可作为风险分层和临床监测的可干预靶点。
-
-## 4. 对精神科专科医院神经内科的意义
-- **鉴别原发精神障碍与器质性脑病**：间接有帮助。提示对认知下降+精神症状患者，需警惕癫痫发作可能，尤其合并脑血管病或TBI时，癫痫可表现为精神行为异常而被误诊为原发精神障碍。
-- **管理痴呆患者的精神行为症状**：有一定参考价值。若痴呆患者出现波动性精神症状，需考虑癫痫性发作可能，避免单纯加用抗精神病药。
-- **精神科药物相关神经系统不良反应**：未涉及。
-- **指导评估**：支持对MCI/AD患者进行癫痫风险分层，建议关注脑血管病、TBI、CNS感染病史，必要时行EEG、神经影像评估。
+- **鉴别原发精神障碍与器质性脑病**：不直接涉及鉴别诊断，但明确了AD激越的药物治疗证据，有助于在器质性背景下识别和处理精神行为症状，减少误判为原发精神病性障碍。
+- **管理痴呆患者的精神行为症状**：**高度相关**。为AD激越提供了具体药物（布瑞哌唑）及剂量（2–3 mg/日）证据，并细化到照护者最困扰的症状靶点，可直接指导临床选药与疗效评估。
+- **精神科药物相关神经系统不良反应**：布瑞哌唑本身为抗精神病药，用于AD激越时需关注锥体外系反应、镇静、跌倒等；本文未重点报告安全性数据，临床使用时仍需监测。
+- **影像/脑脊液/血液标志物或量表评估**：不涉及生物标志物；**量表评估相关**——CMAI条目级分析可用于临床细化评估激越症状及疗效随访。
 
 ## 5. 临床可用性评分
 **建议阅读**
-理由：大样本回顾性研究，提示痴呆患者癫痫风险显著升高及关键共病预测因素，对器质性病因鉴别和风险评估有参考价值，但非精神科直接干预研究。
+理由：为AD激越提供布瑞哌唑症状靶点级证据，贴合精神科专科医院痴呆行为症状管理需求；但属探索性事后分析，证据级别有限，安全性数据不足。
 
 ## 6. 可用于科室分享的一句话
-“在精神科病房遇到MCI或AD患者出现波动性精神行为异常时，别忘了查一查脑血管病、TBI和CNS感染史——他们的癫痫风险是普通老人的3倍，可能不是‘精神症状’，而是‘发作’。”
+布瑞哌唑2–3 mg/日可改善AD患者照护者最困扰的激越症状（如言语攻击、打人、游走），且疗效可维持至24周，为痴呆激越的药物治疗提供了症状靶点级的新证据。
 
-### 10. Beyond the cerebrospinal fluid: Preclinical and clinical evidence on central nervous system penetration and functional activity of oral rapamycin (sirolimus).
+### 10. Terminal agitation in dementia: Challenges and opportunities.
 
 - 期刊：Journal of Alzheimer's disease : JAD
-- 发表日期：2026-10-09
-- PMID：[42852863](https://pubmed.ncbi.nlm.nih.gov/42852863/)
-- 主题：精神科药物相关神经系统问题
+- 发表日期：2026-10-16
+- PMID：[42885674](https://pubmed.ncbi.nlm.nih.gov/42885674/)
+- 主题：痴呆与神经退行性疾病的精神行为症状
 - 自动评分：19（必读）
 
 ## 1. 一句话结论
-口服雷帕霉素（西罗莫司）能够穿透血脑屏障进入脑实质并发挥mTORC1抑制功能活性，脑脊液检测不到药物不能作为其“不入脑”的依据。
+这篇论文指出终末期躁动（TA）在痴呆患者中缺乏统一术语、操作定义和 validated 评估工具，导致识别不足和患病率数据异质，呼吁开发诊断评估工具并建立一致标准。
 
 ## 2. 研究对象与疾病背景
-- **核心药物**：雷帕霉素（rapamycin/sirolimus），mTORC1抑制剂
-- **涉及疾病**：阿尔茨海默病（AD）及相关痴呆（ADRD）、胶质母细胞瘤、结节性硬化症（TSC）相关癫痫、抑郁症（抗抑郁反应维持）
-- **关注问题**：药物中枢神经系统穿透性（CNS penetration）及功能活性
-- **主题归属**：精神科药物相关神经系统问题——但本文实际聚焦于**神经系统疾病治疗药物**的中枢穿透性争议，而非精神科药物不良反应
+涉及痴呆（包括阿尔茨海默病）终末期出现的终末期躁动/终末期不安/终末期谵妄（TA），并与痴呆的精神行为症状（BPSD）、谵妄、疼痛相关症状相鉴别；TA也见于其他终末期疾病如癌症，但本文聚焦痴呆人群。
 
 ## 3. 主要发现
-1. **脑脊液检测阴性≠不入脑**：雷帕霉素在CSF中无法可靠检出，源于四个药理学因素——高脂溶性导致脑实质滞留、极高的红细胞和蛋白结合率、血-CSF屏障处P-糖蛋白外排、检测方法灵敏度不足。
-2. **人类直接证据**：胶质母细胞瘤患者脑组织直接取样可检出雷帕霉素，浓度达到mTORC1抑制水平。
-3. **功能性脑活性证据**：TSC中肿瘤缩小和癫痫控制、AD中PET显示脑代谢保留、APOE4携带者脑血流增加、抗抑郁应答延长——均证明其脑内活性。
-4. **小鼠证据**：LC-MS/MS证实剂量依赖性脑内蓄积，并调节mTORC1信号、自噬、突触、表观遗传和炎症通路。
-5. **领域核心缺口**：尚缺乏在治疗剂量下对完整人脑实质中母体药物的直接测量；ADRD试验应改用mTORC1抑制替代标志物、功能神经影像、临床结局和ADRD体液标志物来追踪药效。
+- TA是终末期出现的复杂、多因素临床综合征，在痴呆中常见但并非痴呆独有，也见于癌症等其他终末疾病。
+- 目前尚无经过验证的临床工具用于评估痴呆中的TA，可能导致识别不足和患病率估计偏差。
+- TA的术语、操作定义（如时间性、症状学）和概念化缺乏共识，文化背景和对痴呆终末期的描述差异可能部分解释文献中患病率的异质性。
+- 文献中多种描述/术语提示TA可能以症状群或簇的形式出现；疼痛、躁动和谵妄在痴呆各阶段尤其终末期存在关联。
+- 区分TA/谵妄与BPSD常很困难，TA、痴呆与重叠BPSD之间的复杂交互仍研究不足；作者提出未来优先事项包括开发诊断评估工具和建立一致定义标准。
 
 ## 4. 对精神科专科医院神经内科的意义
-
-| 维度 | 评估 |
-|------|------|
-| **鉴别原发精神障碍 vs 器质性脑病** | 间接相关。本文不直接涉及鉴别诊断，但强调CSF作为脑内药物暴露替代标志的局限性，对理解“CSF正常≠脑内无病理/无药物作用”有方法论启示 |
-| **管理痴呆患者精神行为症状** | 间接相关。雷帕霉素是ADRD潜在疾病修饰治疗候选药物，若未来用于痴呆患者，其精神行为症状（BPSD）可能随疾病修饰而改善；但本文未直接研究BPSD |
-| **精神科药物相关神经系统不良反应** | 不直接涉及。本文研究的是神经系统疾病治疗药物的脑内穿透性，而非精神科药物（如抗精神病药、锂盐等）的神经毒性 |
-| **指导影像/脑脊液/血液标志物或量表评估** | **高度相关**。本文核心论点即：不应以CSF药物浓度作为CNS穿透性的判断标准；建议采用功能神经影像（PET）、ADRD体液标志物和临床结局作为药效学指标——这对本科室评估药物中枢作用具有方法论指导意义 |
-
-**总结**：本文对精神科专科医院神经内科的**直接临床价值有限**，但对**理解CSF作为CNS药物暴露替代标志的局限性**、以及**未来ADRD试验设计中药效学标志物的选择**具有重要参考意义。它提醒我们：在评估任何药物对脑部的作用时，CSF浓度阴性不能简单等同于“无中枢作用”。
+- **鉴别“原发精神障碍”与“器质性脑病”**：有助于提醒临床在痴呆终末期将TA/谵妄与BPSD区分，但本文未提供具体鉴别工具，价值偏概念性。
+- **管理痴呆患者的精神行为症状**：直接相关，强调终末期躁动常被误归为BPSD，提示对终末期痴呆患者需重新评估躁动性质。
+- **精神科药物相关神经系统不良反应**：本文未涉及。
+- **指导影像、脑脊液、血液标志物或量表评估**：未涉及生物标志物或影像；明确指出目前缺乏 validated 评估工具，呼吁开发量表，对评估方向有提示意义但无具体工具可用。
 
 ## 5. 临床可用性评分
-**可浏览**
-
-理由：本文属叙述性综述，聚焦雷帕霉素CNS穿透性的药理学争议，与精神科神经内科日常临床鉴别诊断和管理关联间接。但对ADRD试验设计和CSF标志物解读有方法论参考价值，值得了解核心结论。
+**可浏览**。理由：主题与痴呆终末期精神行为症状管理相关，但为观点/综述性文章，无具体评估工具或干预方案，适合了解概念框架和研究缺口。
 
 ## 6. 可用于科室分享的一句话
-“脑脊液里测不到雷帕霉素，不等于它没进脑子——高脂溶性、蛋白结合和外排泵让它‘藏’在脑实质里，这提醒我们评估药物中枢作用时不能只靠CSF浓度。”
+痴呆患者终末期的躁动不一定是BPSD，可能是终末期躁动或谵妄，目前缺乏统一评估工具，临床识别时需警惕并与BPSD仔细鉴别。
 
 ## 三、按主题归类
 
-### 精神症状背后的器质性神经疾病鉴别
+### 神经退行性疾病核心进展
 
-- **必读｜31分** [Hyperactive Delirium Temporally Associated With Hydroxyzine in a Child With Succinic Semialdehyde Dehydrogenase Deficiency Presenting With Psychotic Symptoms: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42851809/)
-- **必读｜19分** [Predictors of Seizure Occurrence After Mild Cognitive Impairment and Alzheimer's Disease in Older Adults in the Veterans Affairs Healthcare System: A Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42839211/)
-- **必读｜18分** [How does epilepsy self-management reduce seizure frequency? A causal mediational analysis of a program targeting rural and underserved people with epilepsy and prior negative health events.](https://pubmed.ncbi.nlm.nih.gov/42836721/)
-- **必读｜17分** [Systematic Review and Meta-analysis of Prevalence of Mental Disorders and Suicidality Among Children and Adolescents Living with HIV in South Africa.](https://pubmed.ncbi.nlm.nih.gov/42842190/)
-- **必读｜16分** [Large Language Model-Based Identification of Subjective Cognitive Decline in Electronic Health Records Among Older Adults With Normal Cognitive Testing: Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42842937/)
-- **必读｜16分** [Lateralized amyloid PET uptake and beta-band connectivity in relation to cognition in temporal lobe epilepsy.](https://pubmed.ncbi.nlm.nih.gov/42854932/)
-- **必读｜16分** [Risk of dementia following gabapentin prescription in chronic low back pain patients.](https://pubmed.ncbi.nlm.nih.gov/40639955/)
-- **建议阅读｜15分** [Establishing consensus diagnostic criteria for ring chromosome 20 syndrome: A modified electronic Delphi consensus study.](https://pubmed.ncbi.nlm.nih.gov/42836312/)
-- **建议阅读｜14分** [Functional Neurological Disorder Management in a Pediatric Hospital: A Retrospective Chart Review.](https://pubmed.ncbi.nlm.nih.gov/42846848/)
-- **建议阅读｜14分** [Engineering a chitosan-based nanoemulsion for non-invasive CNS-targeting approach: dual neuroprotection against epileptic and depressive disorders.](https://pubmed.ncbi.nlm.nih.gov/42834205/)
-
-### 精神科药物相关神经系统问题
-
-- **必读｜31分** [Hyperactive Delirium Temporally Associated With Hydroxyzine in a Child With Succinic Semialdehyde Dehydrogenase Deficiency Presenting With Psychotic Symptoms: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42851809/)
-- **必读｜19分** [Beyond the cerebrospinal fluid: Preclinical and clinical evidence on central nervous system penetration and functional activity of oral rapamycin (sirolimus).](https://pubmed.ncbi.nlm.nih.gov/42852863/)
-- **建议阅读｜10分** [Efficacy of Levetiracetam Combined with Sodium Valproate (Oral) in the Treatment of Senile Epilepsy and Its Effects on Cognitive Function, Inflammatory Factors and Neurotransmitters.](https://pubmed.ncbi.nlm.nih.gov/42858290/)
-- **可浏览｜9分** [Valproate use in low- and middle-income countries: Balancing reproductive safety, seizure control, and access to safer antiseizure medicines.](https://pubmed.ncbi.nlm.nih.gov/42854626/)
-- **可浏览｜7分** [Cognitive predictors of functioning and treatment response in treatment-resistant psychosis: A transdiagnostic approach.](https://pubmed.ncbi.nlm.nih.gov/42849183/)
-
-### 痴呆与神经退行性疾病的精神行为症状
-
-- **必读｜23分** [Microbiota-Brain Interactions in Dementia: Role of Diet in Neuroinflammation.](https://pubmed.ncbi.nlm.nih.gov/42843795/)
-- **必读｜23分** [Depression and anxiety in vascular dementia: an update.](https://pubmed.ncbi.nlm.nih.gov/42841964/)
-- **必读｜22分** [Accelerated brain aging as a transdiagnostic biomarker: A lifespan MRI brain age study across seven disorders.](https://pubmed.ncbi.nlm.nih.gov/42839301/)
-- **必读｜19分** [Role of subcortical iron in Parkinson's disease, prodromal-depression, and dementia: Comparative links to anemias and osteoporosis.](https://pubmed.ncbi.nlm.nih.gov/42852947/)
-- **必读｜17分** [Early anhedonia distinguishes behavioral variant frontotemporal dementia from Alzheimer's disease.](https://pubmed.ncbi.nlm.nih.gov/42856930/)
-- **必读｜16分** [Noise or clearance? Reframing plasma amyloid-β variability in Alzheimer's disease as a measurable clearance signal.](https://pubmed.ncbi.nlm.nih.gov/42858060/)
-- **必读｜16分** [High-intensity transcranial alternating current stimulation improves sleep quality in patients with mild Alzheimer's disease: Findings from the TRANSFORM-AD study.](https://pubmed.ncbi.nlm.nih.gov/42858052/)
-- **必读｜16分** [Benzodiazepine use, incident dementia and Alzheimer's disease, and progression to severe dementia: A nationwide Korean cohort study.](https://pubmed.ncbi.nlm.nih.gov/42853249/)
-- **必读｜16分** [Impact of dementia severity on efficacy of brexpiprazole for agitation in Alzheimer's dementia: A post hoc analysis of a randomized, double-blind, placebo-controlled study in Japan.](https://pubmed.ncbi.nlm.nih.gov/42847294/)
-- **必读｜16分** [Large Language Model-Based Identification of Subjective Cognitive Decline in Electronic Health Records Among Older Adults With Normal Cognitive Testing: Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42842937/)
-
-### 老年精神障碍与认知损害
-
-- **必读｜23分** [Depression and anxiety in vascular dementia: an update.](https://pubmed.ncbi.nlm.nih.gov/42841964/)
-- **必读｜22分** [Accelerated brain aging as a transdiagnostic biomarker: A lifespan MRI brain age study across seven disorders.](https://pubmed.ncbi.nlm.nih.gov/42839301/)
-- **必读｜19分** [Astrocytic activity in treatment-resistant and ultra-treatment-resistant schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/42843042/)
-- **建议阅读｜14分** [Early Parental Attachment Style and Late-Life Depressive Symptoms: An Exploratory Analysis on the Moderating Role of Mild Cognitive.](https://pubmed.ncbi.nlm.nih.gov/42842527/)
-- **建议阅读｜13分** [Mapping the psychosis spectrum - imaging neurosubtypes from multiscale functional network connectivity.](https://pubmed.ncbi.nlm.nih.gov/42855456/)
-- **建议阅读｜12分** [Staged bilateral reverse sural artery flap reconstruction for severe frostbite of both feet in a patient with schizophrenia: A case report.](https://pubmed.ncbi.nlm.nih.gov/42854064/)
-- **建议阅读｜11分** [miR-181b-5p is Upregulated in First-Episode Drug-Naive Schizophrenia and Correlates with Symptom Severity and Cognitive Deficits: A Case-Control Study.](https://pubmed.ncbi.nlm.nih.gov/42858056/)
-- **建议阅读｜11分** [Retinal Biomarkers of Cognition in Schizophrenia: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42841301/)
-- **可浏览｜7分** [Tobacco use moderates associations between cannabis use, psychiatric symptoms, and cognitive performance in psychosis spectrum disorders.](https://pubmed.ncbi.nlm.nih.gov/42854303/)
-- **可浏览｜7分** [Neurocognition and social cognition as risk markers in adolescents: a comparative study of asymptomatic siblings of Early-Onset Schizophrenia and bipolar disorder.](https://pubmed.ncbi.nlm.nih.gov/42853265/)
+- **必读｜28分** [Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.](https://pubmed.ncbi.nlm.nih.gov/42886876/)
+- **必读｜19分** [Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.](https://pubmed.ncbi.nlm.nih.gov/42886878/)
+- **必读｜19分** [Evidence for Reduced Somatic T-Cell Receptor Sequence Diversity Profiles Among Midwestern Amish in an Aging Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42892741/)
+- **必读｜19分** [Baseline MRI markers and clinical outcomes during anti-amyloid β therapy: A real-world study in a Japanese dementia center.](https://pubmed.ncbi.nlm.nih.gov/42892274/)
+- **必读｜17分** [Predictors of Antiamyloid Medication Utilization and Adherence Among People With Alzheimer Disease and Mild Cognitive Impairment.](https://pubmed.ncbi.nlm.nih.gov/42879726/)
+- **必读｜17分** [Potential links between PCOS/PMOS and Alzheimer disease and related dementias.](https://pubmed.ncbi.nlm.nih.gov/42872112/)
+- **必读｜17分** [p53 deficiency increases vulnerability to chronic stress-induced anxiety- and depression-like behaviors: Role of calcium dysregulation and BDNF signaling.](https://pubmed.ncbi.nlm.nih.gov/42603633/)
+- **必读｜17分** [Dysregulated Metal Homeostasis in Alzheimer's Disease: From Pathological Modulators to Therapeutic Targets.](https://pubmed.ncbi.nlm.nih.gov/42892457/)
+- **必读｜17分** [A natural neuronal receptor-derived MRI probe targets β-amyloid oligomers for the diagnosis of Alzheimer's disease.](https://pubmed.ncbi.nlm.nih.gov/42892388/)
+- **必读｜16分** [Validity and Performance of Blood Biomarkers for Alzheimer Disease to Predict Dementia Risk in a Large Clinic-Based Cohort.](https://pubmed.ncbi.nlm.nih.gov/42879727/)
 
 ### 神经退行性疾病影像与生物标志物
 
-- **必读｜22分** [Regional amyloid-PET clearance dynamics and anti-Aβ monoclonal antibody therapy: a preliminary real-world study.](https://pubmed.ncbi.nlm.nih.gov/42857419/)
-- **必读｜21分** [Residualized occipital amyloid burden and plasma biomarker profiles in relation to ARIA-E during anti-amyloid treatment.](https://pubmed.ncbi.nlm.nih.gov/42857403/)
-- **必读｜20分** [Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.](https://pubmed.ncbi.nlm.nih.gov/42837647/)
-- **必读｜19分** [Prevalence and impact of cerebral small vessel lesions in mild cognitive impairment and mild dementia due to Alzheimer's disease patients in memory clinic: Preparation for anti-amyloid therapy in Thailand.](https://pubmed.ncbi.nlm.nih.gov/42857983/)
-- **必读｜18分** [Advantage of cerebellar intermittent theta-burst stimulation in Alzheimer's disease (ACT-AD): study protocol for a multicenter, randomized, double-blind, sham-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/42855713/)
-- **必读｜16分** [Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.](https://pubmed.ncbi.nlm.nih.gov/42848968/)
-- **必读｜16分** [Cerebral Hemodynamic Changes in Older Adults With Cognitive Complaints According to the Presence of Peripheral Artery Disease.](https://pubmed.ncbi.nlm.nih.gov/42859693/)
-- **必读｜16分** [Noise or clearance? Reframing plasma amyloid-β variability in Alzheimer's disease as a measurable clearance signal.](https://pubmed.ncbi.nlm.nih.gov/42858060/)
-- **必读｜16分** [Neuroimmune State Configurations at the Amyloid-Tau Interface in Alzheimer's Disease: A Testable Framework.](https://pubmed.ncbi.nlm.nih.gov/42858330/)
-- **必读｜16分** [Multi-Dimensional Feature Adaptive Gating Network for Multi-View and Whole-Brain Magnetic Resonance Imaging-Based Alzheimer's Disease Classification.](https://pubmed.ncbi.nlm.nih.gov/42858061/)
+- **必读｜28分** [Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.](https://pubmed.ncbi.nlm.nih.gov/42886876/)
+- **必读｜28分** [Integration of blood-based biomarkers and genomic variants identifies individuals with mild cognitive impairment who benefit from multidomain intervention.](https://pubmed.ncbi.nlm.nih.gov/42890602/)
+- **必读｜19分** [Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.](https://pubmed.ncbi.nlm.nih.gov/42886878/)
+- **必读｜19分** [Evidence for Reduced Somatic T-Cell Receptor Sequence Diversity Profiles Among Midwestern Amish in an Aging Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42892741/)
+- **必读｜19分** [Baseline MRI markers and clinical outcomes during anti-amyloid β therapy: A real-world study in a Japanese dementia center.](https://pubmed.ncbi.nlm.nih.gov/42892274/)
+- **必读｜19分** [Association between IGFBP-3 and longitudinal neuropsychiatric symptom trajectories in early Parkinson's disease: a longitudinal cohort study.](https://pubmed.ncbi.nlm.nih.gov/42891731/)
+- **必读｜18分** [TGF-β Inhibition Attenuates Tau Accumulation and Neurodegeneration in Progressive Supranuclear Palsy Patient-Derived Organoids.](https://pubmed.ncbi.nlm.nih.gov/42888872/)
+- **必读｜18分** [Recent advances in the management of Lewy body dementia: evaluating progress and future directions.](https://pubmed.ncbi.nlm.nih.gov/42888867/)
+- **必读｜17分** [Predictors of Antiamyloid Medication Utilization and Adherence Among People With Alzheimer Disease and Mild Cognitive Impairment.](https://pubmed.ncbi.nlm.nih.gov/42879726/)
+- **必读｜17分** [Potential links between PCOS/PMOS and Alzheimer disease and related dementias.](https://pubmed.ncbi.nlm.nih.gov/42872112/)
 
-### 神经退行性疾病核心进展
+### 痴呆与神经退行性疾病的精神行为症状
 
-- **必读｜20分** [Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.](https://pubmed.ncbi.nlm.nih.gov/42837647/)
-- **必读｜16分** [Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.](https://pubmed.ncbi.nlm.nih.gov/42848968/)
-- **必读｜16分** [Cerebral Hemodynamic Changes in Older Adults With Cognitive Complaints According to the Presence of Peripheral Artery Disease.](https://pubmed.ncbi.nlm.nih.gov/42859693/)
-- **建议阅读｜14分** [Exercise modality and planned weekly exercise exposure for motor outcomes in Parkinson's disease: a systematic review, Bayesian network meta-analysis, and meta-regression.](https://pubmed.ncbi.nlm.nih.gov/42859236/)
-- **建议阅读｜14分** [Beyond the brain-centric view: A systems physiology framework for exercise-induced neuroprotection in Alzheimer's disease.](https://pubmed.ncbi.nlm.nih.gov/42858800/)
-- **建议阅读｜14分** [MIND Diet Adherence and Parkinson's Disease Risk, Progression, and Age at Onset: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42858790/)
-- **建议阅读｜13分** [Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42842855/)
-- **建议阅读｜13分** [ATRI LIMS: a cloud-native open-source laboratory information management system for biomarker-driven Alzheimer's disease clinical trials.](https://pubmed.ncbi.nlm.nih.gov/42859768/)
-- **建议阅读｜12分** [Exploratory bone-brain transcriptomic associations and an ODE-based digital-twin framework for fracture healing.](https://pubmed.ncbi.nlm.nih.gov/42860235/)
-- **建议阅读｜11分** [Brain weight across the adult lifespan in great apes.](https://pubmed.ncbi.nlm.nih.gov/42832655/)
+- **必读｜27分** [Depression and amyloid-β across CSF, PET, and plasma biomarkers: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42532327/)
+- **必读｜19分** [Association between IGFBP-3 and longitudinal neuropsychiatric symptom trajectories in early Parkinson's disease: a longitudinal cohort study.](https://pubmed.ncbi.nlm.nih.gov/42891731/)
+- **必读｜19分** [Brexpiprazole for Individual Agitation Symptoms in Alzheimer's Dementia: A Caregiver-Centered Post Hoc Analysis.](https://pubmed.ncbi.nlm.nih.gov/42888370/)
+- **必读｜19分** [Terminal agitation in dementia: Challenges and opportunities.](https://pubmed.ncbi.nlm.nih.gov/42885674/)
+- **必读｜19分** [Lifestyle, APOE ε4, amyloid burden, and race/ethnicity differences in cognition, mood, and anxiety among cognitively unimpaired older adults.](https://pubmed.ncbi.nlm.nih.gov/42877708/)
+- **必读｜17分** [p53 deficiency increases vulnerability to chronic stress-induced anxiety- and depression-like behaviors: Role of calcium dysregulation and BDNF signaling.](https://pubmed.ncbi.nlm.nih.gov/42603633/)
+- **必读｜17分** [Regional atrophy and hypoperfusion mediate the association between affective symptoms and cognitive impairment in Alzheimer's disease.](https://pubmed.ncbi.nlm.nih.gov/42888163/)
+- **必读｜17分** [Therapeutic targeting of G protein-coupled receptors in central nervous system disorders: from novel mechanisms to precision pharmacology.](https://pubmed.ncbi.nlm.nih.gov/42624449/)
+- **必读｜17分** [STAT3 mediated the isoleucine-induced Alzheimer's disease progression.](https://pubmed.ncbi.nlm.nih.gov/42471077/)
+- **必读｜16分** [Depression and anxiety among older surgical patients with cognitive impairment: a multicenter longitudinal cohort study.](https://pubmed.ncbi.nlm.nih.gov/42886077/)
+
+### 精神症状背后的器质性神经疾病鉴别
+
+- **必读｜20分** [Affective symptoms in focal epilepsy: A scoping review of localization and lateralizing findings.](https://pubmed.ncbi.nlm.nih.gov/42873623/)
+- **必读｜19分** [Beyond seizure control: Non-seizure-related outcomes in focal-onset epilepsy treated with adjunctive cenobamate. Third interim results from the BLESS study.](https://pubmed.ncbi.nlm.nih.gov/42879242/)
+- **必读｜17分** [From Clinical Manifestations to Neural Mechanisms: A Systematic Review of Neurobehavioral Consequences of Pregabalin Misuse and Abuse.](https://pubmed.ncbi.nlm.nih.gov/42872661/)
+- **建议阅读｜15分** [Multidimensional Clinical Benefits of Cinnamon Leaf Oil Inhalation in Primary and Metastatic Brain Tumor Patients During Winter: A Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42892342/)
+- **建议阅读｜14分** [Frontiers in Neurotransmitter Probes: Innovations and Perspectives in Norepinephrine Detection Technology.](https://pubmed.ncbi.nlm.nih.gov/42893170/)
+- **建议阅读｜14分** [Anti-N-Methyl-D-Aspartate Receptor Encephalitis With Autonomic Instability and Focal Seizures Without Detectable Ovarian Teratoma.](https://pubmed.ncbi.nlm.nih.gov/42892987/)
+- **建议阅读｜14分** [Neurotoxicity of Broad-Spectrum Antibiotics in Urinary Tract Infections: Mechanisms and Clinical Implications.](https://pubmed.ncbi.nlm.nih.gov/42892977/)
+- **建议阅读｜14分** [Gut Microbiota Modulation in CNS Disorders: Therapeutic Strategies and Implications for Drug Efficacy.](https://pubmed.ncbi.nlm.nih.gov/42879046/)
+- **建议阅读｜14分** [Epilepsy associated cognitive dysfunction and addiction: Possible mechanisms and clinical challenges.](https://pubmed.ncbi.nlm.nih.gov/42288322/)
+- **建议阅读｜14分** [The Future of Chronic Disease and the Role of Governmental Public Health.](https://pubmed.ncbi.nlm.nih.gov/42864705/)
+
+### 精神科药物相关神经系统问题
+
+- **建议阅读｜15分** [Assessment of change in drug-induced parkinsonism in daily-life gait using vision-based machine learning.](https://pubmed.ncbi.nlm.nih.gov/42879498/)
+- **建议阅读｜15分** [Antidepressants and cognitive function in major depressive disorder: Mechanisms, clinical evidence, and implications for precision treatment.](https://pubmed.ncbi.nlm.nih.gov/42869167/)
+- **建议阅读｜10分** [A novel de novo variant of CDKL5 in an Iranian child with infantile-onset refractory epilepsy.](https://pubmed.ncbi.nlm.nih.gov/42886284/)
+- **建议阅读｜10分** [Evaluation of anti-depressant, anxiolytic, and cognitive improvement effects of nanocurcumin using social isolation model in male mice: Behavioral and histopathological evaluation.](https://pubmed.ncbi.nlm.nih.gov/42863557/)
+- **可浏览｜9分** [Seizures Secondary to Aconitum Plant Poisoning: a case report.](https://pubmed.ncbi.nlm.nih.gov/42888428/)
+- **可浏览｜7分** [Doxepin Attenuates Cognitive and Anxiety-like Behavioral Deficits Induced by Acute Kidney Injury in Rats.](https://pubmed.ncbi.nlm.nih.gov/42872662/)
+- **可浏览｜5分** [Exploring the pharmacological basis of adverse effects in oxazolidinone and antidepressant cotherapy: an in silico study.](https://pubmed.ncbi.nlm.nih.gov/42886400/)
+
+### 老年精神障碍与认知损害
+
+- **建议阅读｜15分** [Antidepressants and cognitive function in major depressive disorder: Mechanisms, clinical evidence, and implications for precision treatment.](https://pubmed.ncbi.nlm.nih.gov/42869167/)
+- **建议阅读｜15分** [Aberrant amygdala subregion volumes in youth at high risk for bipolar disorder predict antidepressant-induced adverse events.](https://pubmed.ncbi.nlm.nih.gov/42887787/)
+- **建议阅读｜15分** [Neuronavigated dual-target transcranial magnetic stimulation for schizophrenia negative symptoms.](https://pubmed.ncbi.nlm.nih.gov/42879192/)
+- **建议阅读｜10分** [Gray matter volume alterations in generalized anxiety disorder and major depressive disorder.](https://pubmed.ncbi.nlm.nih.gov/42575363/)
+- **建议阅读｜10分** [Cytokine dysregulation and hippocampal neurogenesis: A shared mechanism underlying cognitive impairments across neuropsychiatric and neurodegenerative disorders.](https://pubmed.ncbi.nlm.nih.gov/42863717/)
+- **可浏览｜9分** [Trajectory classes of post-stroke depression severity and their baseline predictors: A multi-cohort replication study.](https://pubmed.ncbi.nlm.nih.gov/42176810/)
+- **可浏览｜7分** [Embodiment, Enaction, and Attunement in Schizophrenia, Autism, and Psychopathy: A Comparative Phenomenological Review.](https://pubmed.ncbi.nlm.nih.gov/42879355/)
+- **可浏览｜7分** [Neuropsychological performance, past-month active suicidal ideation, and lifetime suicide attempt history in individuals with psychosis: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42892098/)
+- **可浏览｜6分** [Effects of visual remediation on contour integration performance in schizophrenia spectrum disorders.](https://pubmed.ncbi.nlm.nih.gov/42887148/)
 
 ## 四、适合科室分享的方向
 
